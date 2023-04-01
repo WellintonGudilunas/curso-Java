@@ -1,3 +1,5 @@
 *.class
 *.iml
 *.xml
+.tmp.drivedownload
+.tmp.driveupload
